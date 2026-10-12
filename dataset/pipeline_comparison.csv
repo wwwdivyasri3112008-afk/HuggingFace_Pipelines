@@ -1,0 +1,7 @@
+task,method,output
+Sentiment Analysis,DistilBERT,POSITIVE
+Summarization,max_length=60,"The global economy in 2026 is undergoing significant transitions driven by technological innovation, geopolitical realignments, and climate challenges. Analysts highlight that while advanced economies are stabilizing after inflationary pressures of the early 2020s, emerging markets are experiencing rapid growth."
+Summarization,max_length=100,"The global economy in 2026 is undergoing significant transitions driven by technological innovation, geopolitical realignments, and climate challenges. Analysts highlight that while advanced economies are stabilizing after inflationary pressures of the early 2020s, emerging markets are experiencing rapid growth."
+Translation,English to Hindi,सन्‌ 2026 में दुनिया - भर में अमीर देशों की आर्थिक हालत बहुत खराब हो रही है ।
+Translation,English to French,"En 2026, l'économie mondiale connaît d'importantes transitions induites par l'innovation technologique, les réalignements géopolitiques et les défis climatiques. Les analystes soulignent que si les économies avancées se stabilisent après les pressions inflationnistes du début des années 2020, les marchés émergents connaissent une croissance rapide alimentée par les investissements dans les infrastructures numériques et les énergies renouvelables."
+Question Answering,DistilBERT QA,labor markets

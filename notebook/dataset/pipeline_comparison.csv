@@ -1,0 +1,7 @@
+task,method,output
+Sentiment Analysis,DistilBERT,POSITIVE
+Summarization,max_length=60,"Students can use AI tools to understand difficult topics, practice questions, and improve their learning. Teachers can also use AI to prepare learning materials and monitor student progress."
+Summarization,max_length=100,"Students can use AI tools to understand difficult topics, practice questions, and improve their learning. Teachers can also use AI to prepare learning materials and monitor student progress."
+Translation,English to Hindi,विद्यार्थियों को सीखने की कला बढ़ाने और विद्यार्थी प्रगति करने के लिए एआई औज़ारों का इस्तेमाल करना चाहिए ।
+Translation,English to French,"L'intelligence artificielle est en train de changer l'éducation. Elle aide les étudiants à apprendre de façon personnalisée.Les étudiants peuvent utiliser des outils d'IA pour comprendre des sujets difficiles, pratiquer des questions et améliorer leur apprentissage."
+Question Answering,DistilBERT QA,"to understand difficult topics, practice questions, and improve their learning"
